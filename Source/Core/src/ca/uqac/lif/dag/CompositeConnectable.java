@@ -15,7 +15,7 @@
     You should have received a copy of the GNU Lesser General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package ca.uqac.lif.toolbox.dag;
+package ca.uqac.lif.dag;
 
 /**
  * A connectable object containing other connectable objects. Composite objects

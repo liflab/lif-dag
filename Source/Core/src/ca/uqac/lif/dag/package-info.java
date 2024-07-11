@@ -22,4 +22,4 @@
  * 
  * @author Sylvain Hallé 
  */
-package ca.uqac.lif.toolbox.dag;
+package ca.uqac.lif.dag;

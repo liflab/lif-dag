@@ -15,10 +15,10 @@
     You should have received a copy of the GNU Lesser General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package ca.uqac.lif.toolbox.dag;
+package ca.uqac.lif.dag;
 
-import ca.uqac.lif.toolbox.dag.Endpoint.DownEndpoint;
-import ca.uqac.lif.toolbox.dag.Endpoint.UpEndpoint;
+import ca.uqac.lif.dag.Endpoint.DownEndpoint;
+import ca.uqac.lif.dag.Endpoint.UpEndpoint;
 
 /**
  * An object having an number of upstream and downstream {@link Endpoints}
